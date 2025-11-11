@@ -1,3 +1,4 @@
 module.exports = {
-  url: "mongodb://0.0.0.0:27017/bezkoder_db"
+  url: "mongodb+srv://user:vROGAT7WS9RI0HEx@cluster0.h2jrziq.mongodb.net/?appName=Cluster0"
 };
+
